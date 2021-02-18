@@ -57,5 +57,60 @@ In order to acquire wisdom, I have started this project to collect proverbs, quo
 - Arabic Proverb
 > Do good and throw it in the sea
 
+- African Proverb
+> Being happy is better than being king.
 
- 
+- American Proverb
+> Wishes won't wash dishes.
+
+- Chinese Proverb
+> The best time to plant a tree was 20 years ago. The second best time is today.
+
+- Danish Proverb
+> Ambition and revenge are always hungry.
+
+- Swedish Proverb
+> The pillow is the best advisor
+
+- Romanin Proverb
+> He who digs a pit for others will fall in it himself.
+
+- Welsh Proverb
+> There's a bad potato in every sack
+
+- Amish Proverb
+> Be life long or short, it's completeness depends on what it was lived for.
+
+- Ukranian Proverb
+> The devils always takes back his gifts
+
+- Thai Proverb
+> You must be calm to fight a tiger.
+
+- English Proverb
+> The pen is mighter than the sword
+
+- Turkish Proverb
+> Even though you know a thousand things, ask the man who knows one.
+
+- Mexican Proverb
+> It's not enough to learn how to ride, you must also learn how to fall.
+
+- Irish Proverb
+> The work praises the man.
+
+- Welsh Proverb
+> The best cnadle is understanding
+
+- Greek Proverb
+> Even from a foe a man may learn wisdom.
+
+- Asian Proverb
+> Dig your well before you're thirsty
+
+- African Proverb
+> If you're not part of the solution you are part of the problem
+
+- Native American Proverb
+> Listen to the wind, it talks. Listen to the silence, it speaks. Listen to your heart, it knows.
+
