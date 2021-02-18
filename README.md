@@ -51,5 +51,11 @@ In order to acquire wisdom, I have started this project to collect proverbs, quo
 - African Proverb
 > It takes a whole village to raise a child.
 
-- 
+- Chinese Proverb
+> Before preparing to improve the world, first look around your own home three times.
+
+- Arabic Proverb
+> Do good and throw it in the sea
+
+
  
